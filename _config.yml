@@ -29,6 +29,8 @@ conference:
   - {date: 15, day: Monday, month: June, year: 2015}
   - {date: 16, day: Tuesday, month: June, year: 2015}
   - {date: 17, day: Wednesday, month: June, year: 2015}
+  - {date: 18, day: Thursday, month: June, year: 2015}
+  - {date: 19, day: Friday, month: June, year: 2015}
   
 # Build settings
 markdown: kramdown

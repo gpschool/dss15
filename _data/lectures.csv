@@ -1,1 +1,21 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube
+Monday,15,June,8:00,9:00,Arrival and Registration,,,,,
+Monday,15,June,9:00,9:30,Opening Remarks,,,[Ciira wa Maina](https://sites.google.com/site/cwamainadekut/),Dedan Kimathi University of Technology,
+Monday,15,June,9:30,10:30,Lecture 1: Introduction to Machine Learning and Data Science,,,[Neil Lawrence](http://inverseprobability.com/),University of Sheffield,
+Monday,15,June,10:30,11:30,Break,,,,,
+Monday,15,June,11:00,13:00,Lecture 2: TBA,,,[John Quinn](http://air.ug/~jquinn/),Makerere University and UN Global Pulse,
+Monday,15,June,13:00,14:00,Lunch,,,,,
+Monday,15,June,14.00,17.00,Lab 1,,,"[Neil Lawrence](http://inverseprobability.com/), [John Quinn](http://air.ug/~jquinn/), [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html) and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)",,
+Tuesday,16,June,9:00,10:30,Lecture 3: Bayesian Methods,,,[Neil Lawrence](http://inverseprobability.com/),University of Sheffield,
+Tuesday,16,June,10:30,11:30,Break,,,,,
+Tuesday,16,June,11:00,13:00,Lecture 4: TBA,,,[John Quinn](http://air.ug/~jquinn/),Makerere University and UN Global Pulse,
+Tuesday,16,June,13:00,14:00,Lunch,,,,,
+Tuesday,16,June,14.00,17.00,Lab 2,,,"[Neil Lawrence](http://inverseprobability.com/), [John Quinn](http://air.ug/~jquinn/), [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html) and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)",,
+Wednesday,17,June,9:00,10:30,Lecture 5: Clustering,,,[Ciira wa Maina](https://sites.google.com/site/cwamainadekut/),University of Sheffield,Dedan Kimathi University of Technology
+Wednesday,17,June,10:30,11:30,Break,,,,,
+Wednesday,17,June,11:00,13:00,Lecture 6: TBA,,,[Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/),University of Sheffield,
+Wednesday,17,June,13:00,14:00,Lunch,,,,,
+Wednesday,17,June,14.00,17.00,Lab 3,,,"[Neil Lawrence](http://inverseprobability.com/), [John Quinn](http://air.ug/~jquinn/), [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html) and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)",,"[Neil Lawrence](http://inverseprobability.com/), [John Quinn](http://air.ug/~jquinn/), [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html) and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)"
+Wednesday,17,June,17:00,,Concluding Remarks,,, 
+Thursday,18,June,,,Data Science in Africa Workshop,../dsa15/,,,,
+Thursday,19,June,,,Data Science in Africa Workshop,../dsa15/,,,,
