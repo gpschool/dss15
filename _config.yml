@@ -17,8 +17,9 @@ conference:
   hosts:
   - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/"}
   organizers:
-  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
   - {name: Andreas Damianou, url: "http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html"}
+  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
+  - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/"}
   - {name: John Quinn, url: "http://air.ug/~jquinn/"}
   name: Data Science School
   hosturl: https://sites.google.com/site/dekutdatascienceworkshop2015/
