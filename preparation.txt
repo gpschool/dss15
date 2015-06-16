@@ -1,0 +1,146 @@
+Hello,
+To get the programme of workshops and tutorials started quickly, it is
+important everyone has the tools installed and ready on their computers.
+The tools we'll be using will be the language Python and the Jupyter
+Notebook. Don't worry if you've not used these before, we'll cover them
+during the first morning of the workshop, but it is important you've
+installed them and checked they work before the start of the workshop.
+
+Python is a programming language with a wide array of powerful libraries
+for data analysis. The Jupyter Notebook is a way of interactively
+working your data using python. We'll have a look at this later.
+
+
+
+===Step 1: Installation===
+First we need to get this installed. I recommend you install the
+anaconda distribution, this contains everything you'll need. It is
+available for windows, linux and apple. Please make sure you download
+the python 2.7 version (NOT python 3.4).
+
+http://continuum.io/downloads
+
+It's quite big. If you have trouble downloading it, maybe find other
+people at your institution who are also downloading it, so you only need
+to download it once.
+
+The installation should be quite straightforward.
+
+If you have any trouble, please email me:
+
+workshop@michaeltsmith.org.uk
+
+-----------
+A note for those with python installed already:
+Some of you might have python installed already. Installing anaconda
+will probably still be the easiest way to get it working quickly.
+However, if you want to install the tools separately, you'll need to
+install:
+- Jupyter, follow the instructions here: http://ipython.org/install.html
+- The following packages:
+1) numpy
+2) scipy
+3) matplotlib
+4) PIL
+5) scikit-learn
+These you can install using pip, in linux:
+sudo pip install numpy
+sudo pip install scipy
+sudo pip install matplotlib
+sudo pip install PIL --allow-unverified PIL --allow-all-external
+sudo pip install scikit-learn
+In windows similar pip commands can be used (without the sudo).
+-----------
+
+
+===Step 2:Trying it out===
+Once it's all installed, you need to start Jupyter (also called an
+ipython notebook).
+
+In windows you should be able to find a launcher for IPython Notebook
+under Anaconda in the Start Menu.
+
+In linux or OS X, open a terminal window, then type:
+    ipython notebook
+
+A browser window should pop up with the notebook inside (you might have
+to click on a link in the terminal if that doesn't happen).
+
+Create a new notebook by (at the top right of the screen) clicking on
+New, then on Python 2 (see pic1.png). This should create a new notebook
+(pic2.png).
+
+In the box, by "In []:", try typing:
+
+print("Hello World")
+
+Then press Shift-enter. This will run it (you can also press the little
+> arrow in the toolbar).
+
+Your notebook should look like it does in pic2.png. If it doesn't check
+the cell is of type "Code" (see the drop down menu in the toolbar).
+
+
+
+
+===Step 3:Trying more stuff===
+You're now ready for the workshop. To get a bit of a head start, why not
+try these examples...
+
+Try copying this code into a blank cell in the notebook:
+
+-----
+print "This is the Jupyter notebook"
+print "It provides a platform for:"
+words = ['Open', 'Data', 'Science']
+from random import shuffle
+for i in range(3):
+    shuffle(words)
+    print ' '.join(words)
+-----
+
+(press Shift-enter to run it)
+
+What does it do? How does it work?
+
+
+
+You can try plotting things too:
+
+-----
+import matplotlib.pyplot as plt      #this imports the matplotlib
+plotting library we need
+%matplotlib inline      #this makes it appear inside the notebook
+import numpy as np      #numpy is a mathematics toolkit
+x = np.linspace(0,16,100)
+y = np.sin(x)
+plt.plot(x,y)               #plotting the result
+-----
+
+This should plot a sine-wave.
+
+
+
+
+Finally, to let us know you've got it all working, try this code (in the
+next cell down):
+
+-----
+import urllib
+my_email = 'put.your@email.address.here"
+urllib.urlretrieve('http://ml.sheffield.ac.uk/~msmith/cgi-bin/workshop.cgi?email='+my_email)
+-----
+
+This uses a library, called 'urllib' to send a message to us to let us
+know you've got it working!
+
+Thanks!
+
+
+
+If you get stuck, or have any questions, let me know.
+
+workshop@michaeltsmith.org.uk
+
+Mike.
+
