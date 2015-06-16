@@ -33,7 +33,7 @@ conference:
   - {date: 18, day: Thursday, month: June, year: 2015}
   - {date: 19, day: Friday, month: June, year: 2015}
   draft: Y # set to Y if the programme is draft only.
-  twitterhash: DataSciAfrica
+  twitterhash: DatSciAfrica
 # Build settings
 markdown: kramdown
 
