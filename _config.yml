@@ -25,7 +25,7 @@ conference:
   - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/"}
   - {name: John Quinn, url: "http://air.ug/~jquinn/"}
   - {name: Michael T. Smith, url: "http://michaeltsmith.org.uk"}
-name: Data Science School
+  name: Data Science School
   hosturl: "https://sites.google.com/site/dekutdatascienceworkshop2015/"
   location: Dedan Kimathi University of Technlogy, Nyeri, Kenya
   year: 2015
