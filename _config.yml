@@ -26,7 +26,7 @@ conference:
   - {name: John Quinn, url: "http://air.ug/~jquinn/"}
   - {name: Michael T. Smith, url: "http://michaeltsmith.org.uk"}
 name: Data Science School
-  hosturl: https://sites.google.com/site/dekutdatascienceworkshop2015/
+  hosturl: "https://sites.google.com/site/dekutdatascienceworkshop2015/"
   location: Dedan Kimathi University of Technlogy, Nyeri, Kenya
   year: 2015
   month: June
